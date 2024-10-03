@@ -105,8 +105,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Authors
 
-- **Vikas Singh** - _Initial work_ - [singh-vikas-m](https://github.com/singh-vikas-m)
-- **Ratan Singh** - _Initial work_ - [Ratansingh648](https://github.com/Ratansingh648)
+- **AKHMIM ABDELILAH** - _Initial work_ - [ni'ma](https://niaama.surge.sh)
 
 ## License
 
