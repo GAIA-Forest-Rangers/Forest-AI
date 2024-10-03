@@ -1,12 +1,11 @@
 </br>
 <div align="center"> 
-<img src= https://github.com/Forest-AI/Platform-Info/blob/master/doc/asset/forest-logo-name-small.png/>
+<img src=https://niaama.surge.sh/assets/imgs/logobig.png />
 </br>
 </br>
 </br>
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://join.slack.com/t/forest-ai-workspace/shared_invite/zt-ga90t9yr-xI3Dc9sYd2T5l1Hdd8TeJQ) [![Website](https://img.shields.io/badge/View-Website-blue)](https://forestai.tech/)
-
 </div>
 
 ## Contents
